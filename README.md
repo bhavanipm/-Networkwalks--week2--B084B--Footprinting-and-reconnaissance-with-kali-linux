@@ -155,6 +155,7 @@ dnsrecon -d example.com
 
 Install any missing tools on Kali with `sudo apt install whois whatweb dnsutils curl wafw00f dnsrecon`.
 
+
 ## Limitations
 
 - Results reflect a single point in time; DNS, headers and hosting change often.
